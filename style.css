@@ -327,6 +327,17 @@ header{
   font-weight: bold;
 }
 /*ここまでcontact*/
+/*PHP*/
+.container-php{
+  width: 100%;
+  margin: 0 auto;
+ /* background-color: rgba(190, 190, 190, 0.349);*/
+  text-align: center;
+  color: rgb(0, 0, 0);
+  
+}
+
+
 /*ここからfooter*/
 .container-foot{
   text-align: center;
